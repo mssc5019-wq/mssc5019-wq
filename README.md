@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   
+<p align="center">
+  <img src="혜+숙_이.png" width="400">
+</p
