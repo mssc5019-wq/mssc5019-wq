@@ -1,10 +1,11 @@
 ## Hi there 👋
 ### 안녕하세요 혜숙이예요
+<p align="center">
+   <img width="299" height="291" alt="image" src="https://github.com/user-attachments/assets/d3fc8d5c-8555-46a9-91f6-2b8807244163" />
+</p>
 
-**mssc5019-wq/mssc5019-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+### 내가 하고 있는 프로젝트는
+1. 나의 건강
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,7 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  
-<p align="center">
-   <img width="299" height="291" alt="image" src="https://github.com/user-attachments/assets/d3fc8d5c-8555-46a9-91f6-2b8807244163" />
 
-</p>
