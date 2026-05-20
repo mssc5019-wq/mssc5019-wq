@@ -9,4 +9,4 @@
 
 ### 내가 하고 있는 사물인식 프로젝트     
 1. TM을 이용한 사물인식 https://github.com/EmmettHwang/ObjectDetectionWithTM
-2. 
+2.티처블머신을 이용한 사물인식 결과에 따라서 휴머노이드보봇이 움직이도록 했음 https://github.com/EmmettHwang/robotControlWithTM/fork
